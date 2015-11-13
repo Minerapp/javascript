@@ -628,7 +628,7 @@
       return false;
     }
 
-    // bad
+    // its ok, Pasha
     function() { return false; }
 
     // good
